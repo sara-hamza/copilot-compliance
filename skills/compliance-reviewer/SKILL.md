@@ -1,7 +1,7 @@
 ---
 name: compliance-reviewer
 description: This skill should be used when a compliance, legal or management staff member pastes or drops a contract, wholesale or developer agreement, policy, procedure or standard (PDF, DOCX, text) and wants it reviewed - "what are our obligations", "review this contract", "build an obligations register", "what should I ask legal". Not legal advice; for review by qualified staff. Local only.
-version: 1.0.0
+version: 1.1.0
 ---
 
 # Compliance Reviewer

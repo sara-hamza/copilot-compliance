@@ -45,8 +45,8 @@ This is not legal advice. Outputs are for review by qualified staff.
 OBLIGATIONS REGISTER: <document title, version, date>
 Party positions: we = <Supplier | Customer | Licensor | ...>; counterparty = <name, role>
 
-OBLIGATIONS ON US
-Ref | Clause | Obligation | Type | Owner | Due or trigger | Evidence | Status
+OBLIGATIONS REGISTER (ours)
+Ref | Clause | Obligation | Binds | Type | Owner | Due or Trigger | Evidence of compliance | Status
 OBL-001 | cl. 5.2 | Provide monthly service report by 10th business day | Recurring | Service delivery manager (TBC) | Monthly, 10th business day | Report sent, filed | Not started
 OBL-002 | cl. 12.1 | Notify counterparty within 2 business days of a security incident affecting their data | Triggered | Security lead (TBC) | Incident awareness + 2 business days | Notification record | Not started
 
